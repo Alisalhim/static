@@ -1,0 +1,216 @@
+/* Basic Latin */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-latin-400.woff2") format("woff2");
+  unicode-range: U+0020-007F;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-latin-500.woff2") format("woff2");
+  unicode-range: U+0020-007F;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-latin-600.woff2") format("woff2");
+  unicode-range: U+0020-007F;
+}
+
+/* Latin-1 Supplement */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-lat1-400.woff2") format("woff2");
+  unicode-range: U+00A0-00FF;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-lat1-500.woff2") format("woff2");
+  unicode-range: U+00A0-00FF;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-lat1-600.woff2") format("woff2");
+  unicode-range: U+00A0-00FF;
+}
+
+/* Latin Extended-A */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-latxa-400.woff2") format("woff2");
+  unicode-range: U+0100-017F;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-latxa-500.woff2") format("woff2");
+  unicode-range: U+0100-017F;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-latxa-600.woff2") format("woff2");
+  unicode-range: U+0100-017F;
+}
+
+/* General Punctuation */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-punct-400.woff2") format("woff2");
+  unicode-range: U+2000-206F;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-punct-500.woff2") format("woff2");
+  unicode-range: U+2000-206F;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-punct-600.woff2") format("woff2");
+  unicode-range: U+2000-206F;
+}
+
+/* Arabic */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-arabic-400.woff2") format("woff2");
+  unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-arabic-500.woff2") format("woff2");
+  unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-arabic-600.woff2") format("woff2");
+  unicode-range: U+0600-06FF;
+}
+
+/* Arabic Presentation Forms-A */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-arabica-400.woff2") format("woff2");
+  unicode-range: U+FB50-FDFF;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-arabica-500.woff2") format("woff2");
+  unicode-range: U+FB50-FDFF;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-arabica-600.woff2") format("woff2");
+  unicode-range: U+FB50-FDFF;
+}
+
+/* Arabic Presentation Forms-B */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-arabicb-400.woff2") format("woff2");
+  unicode-range: U+FE70-FEFF;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-arabicb-500.woff2") format("woff2");
+  unicode-range: U+FE70-FEFF;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  font-stretch: 100%;
+  src: url("/fonts/noto-sans-arabicb-600.woff2") format("woff2");
+  unicode-range: U+FE70-FEFF;
+}
